@@ -19,7 +19,7 @@ To get a local copy up and running, kindly follow these steps.
 1. Install `Java JDK 8` and `JavaFX`.
 2. Clone the repo
 ```
-git clone https://github.com/r-clarissa/shooting-game.git
+git clone https://github.com/r-clarissa/mini-oop-game.git
 ```
 4. Find and change your terminal path where the cloned folder on your local directory is found.
 5. Run the `Main.java` inside `src/main` folder.
